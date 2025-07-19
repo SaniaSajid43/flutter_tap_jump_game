@@ -1,16 +1,43 @@
-# tap_jump
+# 🕹️ Tap Jump Game - Flutter
 
-A new Flutter project.
+A lightweight and fun mobile game developed using **Flutter**, where a character jumps over obstacles on tap. Perfect for practicing game logic, animations, and physics in Flutter.
 
-## Getting Started
+## 🎮 Game Features
 
-This project is a starting point for a Flutter application.
+- Simple Tap-to-Jump mechanism
+- Randomly generating obstacles
+- Score tracking (in-progress)
+- Restart functionality
+- Responsive UI
 
-A few resources to get you started if this is your first Flutter project:
+## 🚧 To Do (Coming Soon)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Improve collision detection
+- Fix scoring logic
+- Add sound effects
+- Add multiple levels or difficulty
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💻 Tech Stack
+
+- **Flutter**
+- **Dart**
+
+## 📷 Screenshots
+
+![1000122010](https://github.com/user-attachments/assets/52a4d311-dbbe-4497-9e80-63fbe33ffb0d)
+![1000122011](https://github.com/user-attachments/assets/b51c6f2d-f2a4-46c6-9b59-9d63d1578431)
+
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/flutter_tap_jump_game.git
+Open in VS Code or Android Studio
+
+2. Run using:
+bash
+flutter pub get
+flutter run
+🙌 Credits
+Developed with ❤️ by Sania Sajid
