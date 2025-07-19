@@ -39,5 +39,7 @@ Open in VS Code or Android Studio
 bash
 flutter pub get
 flutter run
+
+
 🙌 Credits
 Developed with ❤️ by Sania Sajid
