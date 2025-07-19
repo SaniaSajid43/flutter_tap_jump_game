@@ -32,7 +32,7 @@ A lightweight and fun mobile game developed using **Flutter**, where a character
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/flutter_tap_jump_game.git
+   git clone https://github.com/SaniaSajid43/flutter_tap_jump_game.git
 Open in VS Code or Android Studio
 
 2. Run using:
